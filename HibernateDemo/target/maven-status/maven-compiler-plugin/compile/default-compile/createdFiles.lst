@@ -1,0 +1,4 @@
+com\tap\tfl\demo\entities\Course.class
+com\tap\tfl\demo\util\HibernateUtil.class
+com\tap\tfl\demo\entities\Student.class
+com\tap\tfl\demo\App.class
